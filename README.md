@@ -7,13 +7,16 @@ A webpage for users to get accurate prediction of Doctor fee listed  on 1MG
 ![image](https://github.com/DebabrataMohanty07/1MG-Doctor-Fee-Prediction/assets/132880512/dad60d46-8f22-45ca-9fe4-5c17b6d63618)
 # Exploratory Data Analysis
 **Number of Doctors by each City**
+
 ![image](https://github.com/DebabrataMohanty07/Doctor-Fee-Prediction/assets/132880512/3e2ef755-24d8-4fcc-922c-93764730394c)
 
 **Count of Doctor in each Speciality**
+
 ![image](https://github.com/DebabrataMohanty07/Doctor-Fee-Prediction/assets/132880512/9f122f3a-b645-4045-9979-aa6edc35c1bd)
 
 
 **% of Doctors Available in each city**
+
 ![image](https://github.com/DebabrataMohanty07/Doctor-Fee-Prediction/assets/132880512/6c2e66c0-7d15-4d06-8c7c-0c1cba78b447)
 
 
@@ -23,6 +26,7 @@ A webpage for users to get accurate prediction of Doctor fee listed  on 1MG
 
 
 **Doctors having maximum number of Specializations**
+
 ![image](https://github.com/DebabrataMohanty07/Doctor-Fee-Prediction/assets/132880512/8eb85e99-0ebb-4a99-a9b1-2b82e25aca27)
 
 
