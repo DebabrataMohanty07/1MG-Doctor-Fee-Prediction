@@ -18,6 +18,7 @@ A webpage for users to get accurate prediction of Doctor fee listed  on 1MG
 
 
 **Speciality wise Fee Analysis**
+
 ![image](https://github.com/DebabrataMohanty07/Doctor-Fee-Prediction/assets/132880512/2d9c05fa-5b0b-4835-b6e6-0b58859c488a)
 
 
@@ -26,6 +27,7 @@ A webpage for users to get accurate prediction of Doctor fee listed  on 1MG
 
 
 **Distribution of Years of Experience**
+
 ![image](https://github.com/DebabrataMohanty07/Doctor-Fee-Prediction/assets/132880512/d5704d1c-b7cc-41bd-8cd6-0d3fa10d5c9b)
 
 
